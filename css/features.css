@@ -1,0 +1,33 @@
+header .navbar-default ul.navbar-nav li a.signout {
+  color: orange;
+  font-weight: bold;
+}
+
+#features{
+  position: absolute;
+  margin: auto;
+  padding: 100px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 700px;
+  height: 500px;
+	
+  color:#fff;
+}
+
+#features .media-icon span {
+	font-size: 30px;
+}
+
+#features .media-icon {
+	margin-right: 20px;
+	padding: 10px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+}
+
+#features .media-feature {
+	margin-bottom: 40px;
+}
